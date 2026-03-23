@@ -1,8 +1,0 @@
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:818:6:Error_Handler	1
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:334:6:SystemClock_Config	8
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:617:13:XSPI_WriteEnable.constprop	3
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:230:6:erase_flash	1
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:673:13:XSPI_AutoPollingMemReady.constprop	2
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:271:6:read_flash	7
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:247:6:write_flash	2
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/main.c:86:5:main	27

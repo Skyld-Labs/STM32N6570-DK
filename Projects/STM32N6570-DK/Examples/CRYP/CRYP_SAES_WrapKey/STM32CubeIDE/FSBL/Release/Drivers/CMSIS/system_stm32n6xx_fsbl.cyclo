@@ -1,3 +1,0 @@
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/system_stm32n6xx_fsbl.c:175:6:SystemInit	1
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/system_stm32n6xx_fsbl.c:330:6:SystemCoreClockUpdate	19
-/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/system_stm32n6xx_fsbl.c:483:24:SECURE_SystemCoreClockUpdate	1
