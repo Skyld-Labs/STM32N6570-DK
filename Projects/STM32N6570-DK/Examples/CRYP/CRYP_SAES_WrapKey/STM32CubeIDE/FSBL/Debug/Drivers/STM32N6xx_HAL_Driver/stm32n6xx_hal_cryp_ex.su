@@ -1,0 +1,9 @@
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:118:19:HAL_CRYPEx_AESGCM_GenerateAuthTAG	80	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:295:19:HAL_CRYPEx_AESCCM_GenerateAuthTAG	56	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:490:19:HAL_CRYPEx_WrapKey	32	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:543:19:HAL_CRYPEx_UnwrapKey	32	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:614:19:HAL_CRYPEx_EncryptSharedKey	32	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:669:19:HAL_CRYPEx_DecryptSharedKey	32	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:720:26:CRYPEx_KeyDecrypt	24	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:840:26:CRYPEx_KeyEncrypt	32	static
+/home/adrianl/STM32CubeN6/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cryp_ex.c:964:13:CRYPEx_SetKey	16	static

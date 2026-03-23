@@ -1,0 +1,16 @@
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1165:22:LL_AHB3_GRP1_EnableClock	24	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1225:22:LL_AHB3_GRP1_DisableClock	16	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1407:22:LL_AHB4_GRP1_EnableClock	24	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1755:22:LL_AHB5_GRP1_EnableClock	24	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:1891:22:LL_AHB5_GRP1_DisableClock	16	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2909:22:LL_APB2_GRP1_EnableClock	24	static
+../../../../../../../../Drivers/STM32N6xx_HAL_Driver/Inc/stm32n6xx_ll_bus.h:2997:22:LL_APB2_GRP1_DisableClock	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:63:6:HAL_MspInit	4	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:83:6:HAL_RNG_MspInit	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:106:6:HAL_RNG_MspDeInit	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:128:6:HAL_CRYP_MspInit	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:151:6:HAL_CRYP_MspDeInit	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:173:6:HAL_UART_MspInit	440	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:220:6:HAL_UART_MspDeInit	16	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:249:6:HAL_XSPI_MspInit	440	static
+/home/adrianl/STM32CubeN6/Projects/STM32N6570-DK/Examples/CRYP/CRYP_SAES_WrapKey/FSBL/Src/stm32n6xx_hal_msp.c:314:6:HAL_XSPI_MspDeInit	16	static
